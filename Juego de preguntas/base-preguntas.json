@@ -1,0 +1,94 @@
+[
+    {
+        "categoria": "DENSIDAD Y PESO ESPECIFICO",
+        "pregunta": "¿Porque la densidad es una propiedad intensiva?",
+        "respuesta": "No está en función a la variación de su masa",
+        "incorrecta1": "Está en función a la variación de su masa",
+        "incorrecta2": "Está en función a la variación de la gravedad",
+        "incorrecta3": "No está en función a la variación del volumen",
+        "imagen": "https://i.ibb.co/Gx9n3SY/imagen-2022-06-06-121157298.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "DENDIDAD Y PESO ESPECIFICO",
+        "pregunta": "¿Es la relación entre el peso de un cuerpo y su volumen?",
+        "respuesta": "Peso especifico",
+        "incorrecta1": "Densidad",
+        "incorrecta2": "Densidad especifica",
+        "incorrecta3": "Gravedad especifica",
+        "imagen": "https://i.ibb.co/sbDXdqz/imagen-2022-06-06-121854104.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "DENSIDAD Y PESO ESPECIFICO",
+        "pregunta": "¿Qué masa tiene un cuerpo que pesa 100 N?",
+        "respuesta": "M = 10KG",
+        "incorrecta1": "M = 10G",
+        "incorrecta2": "M = 10,20KG",
+        "incorrecta3": "NINGUNO"
+    },
+
+    {
+        "categoria": "DENSIDAD Y PESO ESPECIFICO",
+        "pregunta": "Estados de la materia agrupados como fluidos:",
+        "respuesta": "Liquido y Gas",
+        "incorrecta1": "Plasma y liquido",
+        "incorrecta2": "Gas y plasma",
+        "incorrecta3": "Liquido y solido"
+    },
+    {
+        "categoria": "DENSIDAD Y PESO ESPECIFICO",
+        "pregunta": "¿Cual es el peso especifico del agua?",
+        "respuesta": "9810 N/m3",
+        "incorrecta1": "1000 kg/m3",
+        "incorrecta2": "9810 kg/m3",
+        "incorrecta3": "1000 N/m3"
+    },
+    {
+        "categoria": "MOVIMIENTO ARMONICO SIMPLE",
+        "pregunta": "En el Movimiento Armónico la amplitud se define",
+        "respuesta": "La maxima elongación",
+        "incorrecta1": "cualquier distancia a partir de la posición de equilibrio",
+        "incorrecta2": "el numero de veces que se repite un movimiento",
+        "incorrecta3": "as máximas oscilaciones por unidad de tiempo"
+    },
+
+    {
+        "categoria": "MOVIMIENTO ARMONICO SIMPLE",
+        "pregunta": "Si un resorte dura 2 seg desde donde lo estiro hasta el punto de equilibrio, el período es:",
+        "respuesta": "8 seg",
+        "incorrecta1": "4 seg",
+        "incorrecta2": "2 seg",
+        "incorrecta3": "6 seg"
+    },
+
+    {
+        "categoria": "DENDIDAD Y PESO ESPECIFICO",
+        "pregunta": "¿Cómo se denomina al máximo desplazamiento desde el punto de equilibrio?",
+        "respuesta": "Amplitud",
+        "incorrecta1": "Periodo",
+        "incorrecta2": "Frecuencia",
+        "incorrecta3": "Elongacion",
+        "imagen": "https://i.ibb.co/2qQTbCX/imagen-2022-06-06-124554545.png",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "MOVIMIENTO ARMONICO SIMPLE",
+        "pregunta": "¿Cómo se denomina la cantidad de oscilaciones por unidad de tiempo?",
+        "respuesta": "Frecuencia",
+        "incorrecta1": "Amplitud",
+        "incorrecta2": "Elongacion",
+        "incorrecta3": "Periodo"
+    },
+
+    {
+        "categoria": "RESORTES EN SERIE Y PARALELO",
+        "pregunta": "Cuando se disponen de resortes en paralelo, las constantes se proceden a:",
+        "respuesta": "Sumarse directamente",
+        "incorrecta1": "Sumarse reciprocamente",
+        "incorrecta2": "Restar el de mayor con el de menor valor de constante",
+        "incorrecta3": "Dividir el de mayor con el de menor valor de constante"
+    }
+]
