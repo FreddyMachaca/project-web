@@ -1,0 +1,22 @@
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Conexion con la base de datos.exe.config
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Conexion con la base de datos.exe
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Conexion con la base de datos.pdb
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion con la base de datos.csprojAssemblyReference.cache
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Form1.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Properties.Resources.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion con la base de datos.csproj.GenerateResource.cache
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion con la base de datos.csproj.CoreCompileInputs.cache
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion con la base de datos.exe
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion con la base de datos.pdb
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Negocios.dll
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Datos1.dll
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Negocios.pdb
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\bin\Debug\Datos1.pdb
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Form2.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion con la base de datos.csproj.CopyComplete
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Empleados.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Tela.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Hilo.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Cargo.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Empleado_hilo_tela.resources
+C:\Users\Freddy León\source\repos\Conexion con la base de datos\Conexion con la base de datos\obj\Debug\Conexion_con_la_base_de_datos.Factura.resources
