@@ -1,9 +1,0 @@
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\bin\Debug\Negocios.dll
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\bin\Debug\Negocios.pdb
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\bin\Debug\Datos1.dll
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\bin\Debug\Datos1.pdb
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\obj\Debug\Negocios.dll
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Negocios\obj\Debug\Negocios.pdb

@@ -1,6 +1,0 @@
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Datos1\bin\Debug\Datos1.dll
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Datos1\bin\Debug\Datos1.pdb
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Datos1\obj\Debug\Datos1.csprojAssemblyReference.cache
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Datos1\obj\Debug\Datos1.csproj.CoreCompileInputs.cache
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Datos1\obj\Debug\Datos1.dll
-C:\Users\Freddy León\source\repos\Conexion con la base de datos\Datos1\obj\Debug\Datos1.pdb
